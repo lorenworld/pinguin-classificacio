@@ -1,6 +1,6 @@
 # PINGUIN-CLASSIFICACIO
 
-Aquest projecte implementa diversos classificadors de *machine *learning per a predir l'espècie de pingüins de l'Arxipèlag *Palmer basant-se en les seves característiques físiques.
+Aquest projecte implementa diversos classificadors de "machine learning" per a predir l'espècie de pingüins de l'Arxipèlag Palmer basant-se en les seves característiques físiques.
 
 ## Estructura del Projecte
 
